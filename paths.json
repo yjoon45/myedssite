@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/eds-site-yogesh/:/",
+    "/content/eds-site-yogesh/configuration:/.helix/config.json",
+    "/content/eds-site-yogesh/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-site-yogesh/"
   ]
 }
